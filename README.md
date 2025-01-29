@@ -1,6 +1,6 @@
 #  Hey 👋😄
 
-Quentin, Développeur Full Stack JavaScript passionné, spécialisé sur lécosystème **React** : Next.js, react.js, react-native , **Node.js**: Express, Nest et **TypeScript**.
+Quentin, Développeur Full Stack Typescript passionné, spécialisé sur lécosystème **React** : Next.js, react.js, react-native , **Node.js**: Express, Nest et **TypeScript**.
 J'adore créer des applications web et mobiles performantes, scalables et centrées sur l'utilisateur, tout en explorant les dernières technologies.
 
 🌐 **Disponible pour des opportunités en Full Remote (France)** ou en **Télétravail Partiel (Montpellier)**.  
